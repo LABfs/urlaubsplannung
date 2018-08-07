@@ -17,8 +17,8 @@
   echo '<pre>';
   echo 'Hallo '. $HTTP_POST_VARS[’exampleInputEmail1’];
   echo '</pre>';
-  ?>
   </h1><br><hr><br>
+  ?>
 
   </body>
 </html>
